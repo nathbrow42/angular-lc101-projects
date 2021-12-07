@@ -3,9 +3,13 @@ h3 {
 }
 
 img {
-  width: 300px;
+  width: 250px;
 }
 
 .photos {
+  text-align: center;
+}
+
+fav-links {
   text-align: center;
 }
